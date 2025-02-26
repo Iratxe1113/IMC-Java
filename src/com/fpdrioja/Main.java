@@ -3,6 +3,10 @@ package com.fpdrioja;
 import java.util.Scanner;
 
 /**
+ * @Author: Iratxe
+ */
+
+/**
  * Clase principal que ejecuta el programa.
  */
 public class Main {
